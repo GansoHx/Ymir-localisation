@@ -1,32 +1,32 @@
 #bdg_hous_n
-housing
+habitação
 
 #bdg_hous_dscr
-Accomodates population, improving their health and life quality.
+Acomoda população, melhorando sua saúde e qualidade de vida.
 
 #bdg_prod_n
-production building
+edifício de produção
 
 #bdg_prod_dscr
-Exploits terrain tiles to produce raw resources.
+Explora as telhas do terreno para produzir recursos brutos.
 
 #bdg_ind_n
-industrial building
+construção industrial
 
 #bdg_ind_dscr
-Produces goods out of existing resources.
+Produz bens com recursos existentes.
 
 #bdg_srv_n
-service
+serviço
 
 #bdg_srv_dscr
-Produces a service (a non-material resources that cannot be stored).
+Produz um serviço (um recurso não material que não pode ser armazenado).
 
 #bdg_stor_n
-storage
+armazenamento
 
 #bdg_stor_dscr
-Stocks resources.
+Recursos de estoque.
 
 #bdg_merch_n
 distribution
